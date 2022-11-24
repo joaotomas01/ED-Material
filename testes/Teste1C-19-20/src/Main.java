@@ -1,4 +1,23 @@
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 public class Main {
+
+    static <T extends Comparable<? super T>> int contaUnicos(List<T> list) {
+        int count = list.size();
+        for (int i=0; i<list.size()-1; i++) {
+            System.out.println("1: " + list.get(i));
+            System.out.println("2: " + list.get(i+1));
+            System.out.println();
+            if (list.get(i).compareTo(list.get(i+1)) == 0) {
+                count--;
+            }
+        }
+        return count;
+    }
+
     static boolean pesquisa(int []m, int valorX, int valorY) {
         int start=0;
         int end = m.length-1;
@@ -32,7 +51,10 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        int [] array = {1,2,1,10,3,0,3,2,4,10};
-        System.out.println(pesquisa(array, 3, 2));
+        //int [] array = {1,2,1,10,3,0,3,2,4,10};
+        //System.out.println(pesquisa(array, 3, 2));
+
+        List<Integer> list = new ArrayList<>(Arrays.asList(1,10,10,10,90,91,91,100));
+        System.out.println(contaUnicos(list));
     }
 }
