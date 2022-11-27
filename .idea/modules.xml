@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ED-Material.iml" filepath="$PROJECT_DIR$/.idea/ED-Material.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testes/TESTE1E-18-19/TESTE1E-18-19.iml" filepath="$PROJECT_DIR$/testes/TESTE1E-18-19/TESTE1E-18-19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testes/Teste1A/Teste1A.iml" filepath="$PROJECT_DIR$/testes/Teste1A/Teste1A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testes/Teste1B/Teste1B.iml" filepath="$PROJECT_DIR$/testes/Teste1B/Teste1B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testes/Teste1C-19-20/Teste1C-19-20.iml" filepath="$PROJECT_DIR$/testes/Teste1C-19-20/Teste1C-19-20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ficha01/ficha01.iml" filepath="$PROJECT_DIR$/ficha01/ficha01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ficha02/ficha02.iml" filepath="$PROJECT_DIR$/ficha02/ficha02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ficha03/ficha03.iml" filepath="$PROJECT_DIR$/ficha03/ficha03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ficha04/ficha04.iml" filepath="$PROJECT_DIR$/ficha04/ficha04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ficha05/ficha05.iml" filepath="$PROJECT_DIR$/ficha05/ficha05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ficha06/ficha06.iml" filepath="$PROJECT_DIR$/ficha06/ficha06.iml" />
+    </modules>
+  </component>
+</project>

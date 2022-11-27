@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ED-Material">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ficha03_ed.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ficha04.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
